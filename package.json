@@ -1,0 +1,10 @@
+{
+  "name": "fuse-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dzek69 <git-public@dzek.eu>",
+  "license": "MIT",
+  "dependencies": {
+    "fuse-box": "^4.0.0-next.92"
+  }
+}
